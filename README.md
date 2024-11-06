@@ -1,4 +1,4 @@
-# 🍕 Central de Gerenciamento de Pedidos - Pizzaria
+# 🍕 Central de Gerenciamento de Pedidos 
 
 Bem-vindo ao projeto **Central de Gerenciamento de Pedidos**! Este projeto foi desenvolvido durante o curso da [Rocketseat](https://www.rocketseat.com.br) como parte de um estudo prático, com foco em ferramentas modernas e performáticas para gerenciamento de pedidos em estabelecimentos do segmento de food service, como pizzarias. Embora o projeto seja direcionado a uma pizzaria, ele é facilmente escalável e adaptável a outros tipos de estabelecimentos.
 
@@ -44,3 +44,7 @@ A biblioteca TanStack React Query é um poderoso gerenciador de estados assíncr
 Este projeto foi desenvolvido de forma modular, permitindo fácil adaptação para outros tipos de estabelecimentos. Novas funcionalidades e métricas podem ser adicionadas conforme a necessidade do negócio, tornando-o uma solução escalável para diversos setores no segmento de food service.
 
 ---
+
+
+https://github.com/user-attachments/assets/15d04f34-9b9a-434f-971b-14d380e0518f
+
